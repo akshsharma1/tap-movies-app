@@ -1,13 +1,13 @@
-#tap-movies app
+# tap-movies app
 
-##Home Page
+## Home Page
 
 ![HomePage](./img/1.png)
 
-##Add Movie
+## Add Movie
 
 ![Addmovie](./img/2.png)
 
-##Movie Details
+## Movie Details
 
 ![moviedetailspage](./img/3.png)
